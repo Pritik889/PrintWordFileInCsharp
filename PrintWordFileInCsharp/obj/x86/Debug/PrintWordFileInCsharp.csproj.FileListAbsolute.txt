@@ -1,0 +1,15 @@
+D:\PritiFolder\R&DFolder\WebSevice\PrintWordFileInCsharp\PrintWordFileInCsharp\bin\Debug\PrintWordFileInCsharp.exe
+D:\PritiFolder\R&DFolder\WebSevice\PrintWordFileInCsharp\PrintWordFileInCsharp\bin\Debug\PrintWordFileInCsharp.pdb
+D:\PritiFolder\R&DFolder\WebSevice\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.Form1.resources
+D:\PritiFolder\R&DFolder\WebSevice\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.Properties.Resources.resources
+D:\PritiFolder\R&DFolder\WebSevice\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.csproj.GenerateResource.Cache
+D:\PritiFolder\R&DFolder\WebSevice\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.exe
+D:\PritiFolder\R&DFolder\WebSevice\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.pdb
+D:\PritiFolder\R&DFolder\WebSevice\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.Watcher.resources
+D:\PritiFolder\R&DFolder\WindowApplication\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.exe
+D:\PritiFolder\R&DFolder\WindowApplication\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.pdb
+D:\PritiFolder\R&DFolder\WindowApplication\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.Form1.resources
+D:\PritiFolder\R&DFolder\WindowApplication\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.Properties.Resources.resources
+D:\PritiFolder\R&DFolder\WindowApplication\PrintWordFileInCsharp\PrintWordFileInCsharp\obj\x86\Debug\PrintWordFileInCsharp.csproj.GenerateResource.Cache
+D:\PritiFolder\R&DFolder\WindowApplication\PrintWordFileInCsharp\PrintWordFileInCsharp\bin\Debug\PrintWordFileInCsharp.exe
+D:\PritiFolder\R&DFolder\WindowApplication\PrintWordFileInCsharp\PrintWordFileInCsharp\bin\Debug\PrintWordFileInCsharp.pdb
